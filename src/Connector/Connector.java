@@ -18,4 +18,26 @@ public class Connector {
         return null;
     }
     
+    public static boolean checkDatabase()
+    {
+        return true;
+    }
+    
+    public static boolean consolidateDatabase()
+    {
+        
+        return true;
+    }
+    
+    public static boolean initializeDatabase()
+    {
+    
+        return true;
+    }
+    
+    public static boolean rerollDatabase()
+    {
+        
+        return true;
+    }
 }

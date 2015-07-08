@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:13
+-keep class P.I.M.Basilia { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class P.I.M.Loader { <init>(...); }
+

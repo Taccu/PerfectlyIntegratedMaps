@@ -61,6 +61,7 @@ public class Basilia extends Activity
     // everytime app starts, restarts etc.
     private boolean checkStatusOfApp()
     {
-        return true;
+        
+        return Connector.Connector.checkDatabase();
     }
 }
